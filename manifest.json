@@ -23,11 +23,5 @@
         "matches": [
             "https://www.nike.com.br/*"
         ]
-    },
-    "content_scripts": [
-        {
-          "matches": ["https://www.nike.com.br/*"],
-          "js": ["js/bot.js"]
-        }
-    ]
+    }
 }
